@@ -125,24 +125,6 @@ This repo consists of all the **resources** that can be referred during one's **
 </details>
 
 
-<details>
-  <summary>My Blogs</summary>
-
-  - [AlphaTensor: DeepMind’s Ingenious Phenom](https://medium.com/p/2528f990bc65)
-  - [Artificial Intelligence vs Covid-19](https://elemento.medium.com/artificial-intelligence-vs-covid-19-faeacbc2f163)
-  - [Ansoff Matrix - Boosting your Startup, and Case-Study of Lenskart](https://medium.com/nybles/ansoff-matrix-boosting-your-startup-and-case-study-of-lenskart-131ae6db91d2)
-  - [Black Box vs White Box approaches to develop AI models](https://medium.com/mlearning-ai/black-box-vs-white-box-approaches-to-develop-ai-models-b07d781520b8)
-  - [Demystifying Spectral Embedding](https://elemento.medium.com/demystifying-spectral-embedding-b2368bba580)
-  - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
-  - [India, Tesla's Next Stop](https://medium.com/developer-student-clubs-iiit-allahabad/india-teslas-next-stop-90887a588fa5)
-  - [Is India cultivating the path for SNBL Startups?](https://elemento.medium.com/is-india-cultivating-the-path-for-snbl-startups-445deef19927)
-  - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
-  - [Living with Artificial Intelligence | Part 1](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-1-371182e9935d)
-  - [Living with Artificial Intelligence | Part 2](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-2-4ec1f601780f)
-  - [The Story of Modular](https://medium.com/mlearning-ai/the-story-of-modular-2e3ef08fdc7)
-
-</details>
-
 
 <details>
   <summary>E-Books</summary>
